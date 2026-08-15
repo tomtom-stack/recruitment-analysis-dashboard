@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Power BI recruitment analytics dashboard built to analyse hiring outcomes, candidate characteristics, and recruitment strategy effectiveness.
+A Power BI recruitment analytics dashboard built to analyse hiring outcomes, candidate characteristics, and the effectiveness of recruitment strategies.
 
 The project uses a dataset of 1,500 candidates to explore patterns in hiring decisions and identify candidate and recruitment factors associated with better hiring outcomes.
 
@@ -59,4 +59,4 @@ This was a practice project created to strengthen my skills in Power BI, DAX, mu
 
 - `Recruitment Analysis Dashboard.pdf` — complete dashboard export
 - `Recruitment Analysis Dashboard.pbix` — Power BI source file
-- `screenshots/` — individual dashboard page previews
+- `Dashboard screenshots` — individual previews of each dashboard page
